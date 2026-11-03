@@ -1,7 +1,8 @@
 # Hello World, I'm Artemis 🌍
  
 I'm a fullstack developer who loves technology and the creative side of building things. 
-<br>Curiosity keeps me learning, and creativity keeps me building.
+
+Curiosity keeps me learning, and creativity keeps me building.
  
 ---
  
