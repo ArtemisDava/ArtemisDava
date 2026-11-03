@@ -1,11 +1,14 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="github-snake" src="https://githubusercontent.com">
-</picture>
 
 # Hello World, I'm Artemis 🌍
- 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArtemisDava/ArtemisDava/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArtemisDava/ArtemisDava/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ArtemisDava/ArtemisDava/output/github-snake.svg" />
+</picture>
+
+
+ ### About Me
 I'm a fullstack developer who loves technology and the creative side of building things. 
 
 Curiosity keeps me learning, and creativity keeps me building.
