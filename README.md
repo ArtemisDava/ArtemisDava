@@ -1,6 +1,7 @@
 # Hello World, I'm Artemis 🌍
  
-I'm a fullstack developer who loves technology and the creative side of building things. Curiosity keeps me learning, and creativity keeps me building.
+I'm a fullstack developer who loves technology and the creative side of building things. 
+<br>Curiosity keeps me learning, and creativity keeps me building.
  
 ---
  
@@ -13,6 +14,7 @@ I'm a fullstack developer who loves technology and the creative side of building
 <a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-fff?style=for-the-badge&logo=typescript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-fff?style=for-the-badge&logo=javascript" /></a>
 <a href="https://vite.dev"><img alt="Vite" src="https://img.shields.io/badge/vite-fff?style=for-the-badge&logo=vite" /></a>
+
 <a href="https://tailwindcss.com"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind-fff?style=for-the-badge&logo=tailwindcss" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/html5-fff?style=for-the-badge&logo=html5" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/css3-fff?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
