@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="github-snake" src="https://githubusercontent.com">
+</picture>
+
 # Hello World, I'm Artemis 🌍
  
 I'm a fullstack developer who loves technology and the creative side of building things. 
