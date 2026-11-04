@@ -78,9 +78,7 @@ Here you'll find a collection of my creative projects. It's a mix of everything 
 <a href="https://gitlab.com"><img alt="GitLab" src="https://img.shields.io/badge/gitlab-fff?style=for-the-badge&logo=gitlab&logoColor=FC6D26" /></a>
 <a href="https://insomnia.rest"><img alt="Insomnia" src="https://img.shields.io/badge/insomnia-fff?style=for-the-badge&logo=insomnia&logoColor=4000BF" /></a>
 <a href="https://www.postman.com"><img alt="Postman" src="https://img.shields.io/badge/postman-fff?style=for-the-badge&logo=postman&logoColor=FF6C37" /></a>
-<a href="https://code.visualstudio.com"><img alt="VS Code" src="https://img.shields.io/badge/vs%20code-fff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /></a>
-
-
+<a href="https://code.visualstudio.com"><img alt="VS Code" src="https://img.shields.io/badge/vs%20code-fff?style=for-the-badge&logo=vscodium&logoColor=2F80ED" /></a>
 ## Currently working on
  
 -  Working as a freelance developer, building a website for a client in collaboration with a product team
