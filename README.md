@@ -1,8 +1,8 @@
 
 <div align="center">
   
-  #  Hi there, and welcome to my profile! 🌍
-  ### Enjoy my journey as a full-stack developer 
+  # Hello There <img src="./handwave.webp" width="25px"> 
+  ### welcome to my profile and enjoy my journey as a full-stack developer 
   
 </div>
 
