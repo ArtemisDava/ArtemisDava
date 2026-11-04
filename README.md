@@ -1,10 +1,5 @@
 
-<div align="center">
-  
-  # Hello There <img src="./handwave.webp" width="25px"> 
-  ### welcome to my profile and enjoy my journey as a full-stack developer 
-  
-</div>
+# Hello There <img src="./handwave.webp" width="25px"> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArtemisDava/ArtemisDava/output/github-snake-dark.svg" />
@@ -77,13 +72,7 @@ Got an idea, a project, or just want to talk code? **Don't hesitate to reach out
 <!-- Replace the links below -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artemis-davakou-486b231b2)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemis.davakou@gmail.com)
-
-<div align="center">
-  
-  ⭐ <i>Thanks for stopping by, enjoy the journey! ⭐
- 
-</div>
  
 ---
  
-<i>Always learning. Always building. Always improving.</i>
+*Always learning. Always building. Always improving.*
