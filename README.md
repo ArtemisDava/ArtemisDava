@@ -1,5 +1,10 @@
 
-# Hello World, I'm Artemis 🌍
+<div align="center">
+  
+  #  Hi there, and welcome to my profile! 🌍
+  ### Enjoy my journey as a full-stack developer 
+  
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArtemisDava/ArtemisDava/output/github-snake-dark.svg" />
@@ -8,14 +13,26 @@
 </picture>
 
 
- ### About Me
-I'm a fullstack developer who loves technology and the creative side of building things. 
+ ## About Me
 
-Curiosity keeps me learning, and creativity keeps me building.
+I'm a newly graduated **fullstack developer** with a burning passion for building, exploring, and creating.
+ 
+What started as curiosity for coding has grown into a genuine passion for technology and software development. I enjoy learning new technologies, exploring creative solutions, and continuously improving existing projects.
+ 
+I'm always eager to take on new challenges, expand my skills, and turn ideas into meaningful digital experiences.
+
+> *One step at a time, but always moving forward.*
  
 ---
+
+
+## My projects
  
-### Tech Stack
+Here you'll find a collection of my creative projects. It's a mix of everything I've built, tested and learned along the way. Feel free to look around and see what catches your eye!
+
+
+ 
+### Tech 
  
 **Frontend**
  
@@ -43,7 +60,30 @@ Curiosity keeps me learning, and creativity keeps me building.
 <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-fff?style=for-the-badge&logo=postgresql&logoColor=316192" /></a>
 <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/git-fff?style=for-the-badge&logo=git" /></a>
 <a href="https://www.figma.com"><img alt="Figma" src="https://img.shields.io/badge/figma-fff?style=for-the-badge&logo=figma" /></a>
+
+
+## Currently working on
+ 
+-  Working as a freelance developer, building a website for a client in collaboration with a product team
+-  Diving deeper into new technologies and frameworks
+-  Looking for new opportunities to grow as a developer
+
+
+
+## Let's collaborate!
+ 
+Got an idea, a project, or just want to talk code? **Don't hesitate to reach out**, I'm always open to collaborations!
+ 
+<!-- Replace the links below -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artemis-davakou-486b231b2)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemis.davakou@gmail.com)
+
+<div align="center">
+  
+  ⭐ <i>Thanks for stopping by, enjoy the journey! ⭐
+ 
+</div>
  
 ---
  
-*Always learning. Always building. Always improving.*
+<i>Always learning. Always building. Always improving.</i>
